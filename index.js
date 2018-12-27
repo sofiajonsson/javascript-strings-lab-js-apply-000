@@ -7,5 +7,5 @@ var greetSpecialGuest = `Hello, ${specialGuest}!`;
 
 var topic = "space";
 
-var conversation = `Lets talk about space${topic}`;
-friends.innerHTML=parseInt(conversation.innerHTML)
+var conversation = `Lets talk about ${topic}`;
+conversation.innerHTML=parseInt(conversation.innerHTML)
