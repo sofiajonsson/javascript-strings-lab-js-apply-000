@@ -7,5 +7,5 @@ var greetSpecialGuest = "" + specialGuest + "!";
 
 var topic = "space";
 
-var conversation = `${topic}`;
-document.querySelector('#conversation')
+var conversation = `document.querySelector${topic}`;
+friends.innerHTML=parseInt(conversation.innerHTML)
